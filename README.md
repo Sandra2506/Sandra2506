@@ -17,7 +17,10 @@
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlexFonova) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sashali1917@gmail.com)
 
+---
 
+
+# 👀 [Портфолио](https://github.com/Sandra2506/iOS-Developer-Portfolio/tree/main)
 
 ---
 
